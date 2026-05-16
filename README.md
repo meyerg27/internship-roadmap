@@ -130,7 +130,7 @@ homelab-infra/
 
 | Metric | Target | Current | % |
 |--------|--------|---------|---|
-| LeetCode | 150 | 1 | 0.7% |
+| LeetCode | 150 | 2 | 0.7% |
 | Blog Posts | 6 | 0 published | 0% |
 | K8s Apps | 10 | 3 | 30% |
 | GitHub Stars | 10 | 0 | 0% |
