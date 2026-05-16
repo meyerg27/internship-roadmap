@@ -28,8 +28,8 @@
 
 | # | Problem | Topic | Difficulty | Date Done | Notes |
 |---|---------|-------|-----------|-----------|-------|
-| 1 | Two Sum | Arrays & Hashing | Easy | ❌ | |
-| 2 | Valid Anagram | Arrays & Hashing | Easy | ❌ | |
+| 1 | Two Sum | Arrays & Hashing | Easy | ✅ May 16 | Hash map, O(n) |
+| 2 | Valid Anagram | Arrays & Hashing | Easy | ✅ May 16 | Hash map, O(n) | |
 | 3 | Contains Duplicate | Arrays & Hashing | Easy | ❌ | |
 | 4 | Replace Elements with Greatest | Arrays & Hashing | Easy | ❌ | |
 | 5 | Is Subsequence | Two Pointers | Easy | ❌ | |
