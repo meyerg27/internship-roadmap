@@ -1,0 +1,24 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+
+# Secrets
+credentials/
+secrets/
+*.pem
+*.key
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary
+tmp/
+temp/
