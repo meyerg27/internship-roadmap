@@ -29,9 +29,9 @@
 | # | Problem | Topic | Difficulty | Date Done | Notes |
 |---|---------|-------|-----------|-----------|-------|
 | 1 | Two Sum | Arrays & Hashing | Easy | ✅ May 16 | Hash map, O(n) |
-| 2 | Valid Anagram | Arrays & Hashing | Easy | ✅ May 16 | Hash map, O(n) | |
-| 3 | Contains Duplicate | Arrays & Hashing | Easy | ❌ | |
-| 4 | Replace Elements with Greatest | Arrays & Hashing | Easy | ❌ | |
+| 2 | Valid Anagram | Arrays & Hashing | Easy | ✅ May 16 | Hash map, O(n) | | Hash map, O(n) | |
+| 3 | Contains Duplicate | Arrays & Hashing | Easy | ✅ May 17 | Hash set, O(n) | | |
+| 4 | Replace Elements with Greatest | Arrays & Hashing | Easy | ✅ May 17 | Right-to-left pass, O(n) | | |
 | 5 | Is Subsequence | Two Pointers | Easy | ❌ | |
 | 6 | Longest Common Prefix | Sliding Window | Easy | ❌ | |
 | 7 | Merge Two Sorted Lists | Linked List | Easy | ❌ | |
