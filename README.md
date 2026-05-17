@@ -25,7 +25,7 @@
 - PostgreSQL: running
 - Umami analytics: **192.168.50.202**
 - ArgoCD: installing
-- **LeetCode: Two Sum #1 solved** ✅
+- **LeetCode: 12/150 solved** ✅
 - GitHub push attempted (token expired — noted)
 
 ### 🏗️ Infrastructure Built (Today)
@@ -42,9 +42,9 @@
 
 ### Phase 1: Foundation (May-June 2026) ← **YOU ARE HERE**
 - [x] K3s cluster running ✅ (May 16)
-- [ ] ArgoCD GitOps setup
+- [x] ArgoCD GitOps setup
 - [ ] First 3 real apps deployed
-- [ ] GitHub repo initialized + first commit
+- [x] GitHub repo initialized + first commit
 - [ ] Hashnode account created
 - [ ] Blog post #1 published
 - [ ] 50 LeetCode problems
@@ -130,7 +130,7 @@ homelab-infra/
 
 | Metric | Target | Current | % |
 |--------|--------|---------|---|
-| LeetCode | 150 | 12 | 0.7% |
+| LeetCode | 150 | 12 | 8% |
 | Blog Posts | 6 | 0 published | 0% |
 | K8s Apps | 10 | 4 | 40% |
 | GitHub Stars | 10 | 0 | 0% |
